@@ -7,3 +7,4 @@
 - **Exploring:** $~~~~~~~~~~$![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <!--  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) -->
 
 Please feel free to connect with me here: [linkedin.com/in/pradeepkumar2023](https://www.linkedin.com/in/pradeepkumar2023/) | [pradeepkg41199@gmail.com](mailto:pradeepkg41199@gmail.com)
+Personal Site: https://deeppublicgit.github.io/
